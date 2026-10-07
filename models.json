@@ -198,5 +198,15 @@
     "sizeMb": 340.0,
     "downloadUrl": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-int8-multi-lang-v1_1.tar.bz2",
     "previewUrl": ""
+  },
+  {
+    "id": "supertonic_3",
+    "displayName": "Supertonic 3",
+    "languageTag": "multi",
+    "gender": "Multi",
+    "archiveName": "sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2",
+    "sizeMb": 99.0,
+    "downloadUrl": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2",
+    "previewUrl": ""
   }
 ]
